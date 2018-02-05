@@ -1,0 +1,19 @@
+{
+  "group": [
+    {
+      "title":"First Adventure",
+      "subtitle":"Survive first",
+      "points":"30"
+    }
+  ],
+  "individual": [
+    {
+      "player": "Player1",
+      "achivments": [      ]
+    },
+    {
+      "player": "Player2",
+      "achivments": [      ]
+    }
+  ]
+}
